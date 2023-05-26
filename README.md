@@ -17,6 +17,9 @@ Installation
 
 First, clone the repository to your local machine:
 
+	git clone https://github.com/avyaktam/imagechef.git
+	cd imagechef
+
 Before running the script, you need to install the necessary dependencies. 
     
     pip install imageio[all]
