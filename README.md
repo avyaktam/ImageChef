@@ -22,11 +22,10 @@ First, clone the repository to your local machine:
 
 Before running the script, you need to install the necessary dependencies. 
     
-    pip install imageio[all]
+    pip install imageio
     pip install Wand
     pip install PySimpleGUI
     pip install moviepy
-    pip install opencv-python-headless
 
 This script requires ImageMagick to be installed on your system because it uses the Wand library for image manipulation. You can download ImageMagick from their official site(https://imagemagick.org/script/download.php). Make sure to install the version of ImageMagick that corresponds with your Python version (i.e., 32-bit or 64-bit).
 
