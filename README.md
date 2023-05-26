@@ -29,6 +29,4 @@ The script can be launched by either running the imagechef.py script directly wi
 
     python imagechef.py
 
-Or by executing the provided batch file, if you're on Windows:
-
-    start imagechef.bat
+Or by executing the provided batch file, if you're on Windows
