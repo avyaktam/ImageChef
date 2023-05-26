@@ -1,7 +1,7 @@
- _ _|                                  ___|  |             _| 
-   |   __ `__ \    _` |   _` |   _ \  |      __ \    _ \  |   
-   |   |   |   |  (   |  (   |   __/  |      | | |   __/  __| 
- ___| _|  _|  _| \__,_| \__, | \___| \____| _| |_| \___| _|   
+		 _ _|                                  ___|  |             _| 
+	   |   __ `__ \    _` |   _` |   _ \  |      __ \    _ \  |   
+	   |   |   |   |  (   |  (   |   __/  |      | | |   __/  __| 
+	 ___| _|  _|  _| \__,_| \__, | \___| \____| _| |_| \___| _|   
                         |___/                                 
 
 ImageChef is a Python tool for batch processing of images with a variety of effects. It also allows you to create MP4 videos and GIFs from a series of images. The tool is built on several Python libraries and presents a GUI for easy interaction.
