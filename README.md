@@ -5,11 +5,8 @@
                         |___/                                 
 
 ImageChef is a Python tool for batch processing of images with a variety of effects. It also allows you to create MP4 videos and GIFs from a series of images. The tool is built on several Python libraries and presents a GUI for easy interaction.
-Features
 
-ImageChef allows you to: 
-
-Apply a variety of image effects, including dithering, pixelating, resizing, rotating, blurring, and mirroring.
+Apply a variety of image effects: dithering, pixelating, resizing, rotating, blurring, and mirroring.
 Create MP4 movies from a series of images.
 Create GIFs from a series of images.
 
