@@ -36,3 +36,6 @@ The script can be launched by either running the imagechef.py script directly wi
     python imagechef.py
 
 Or by executing the provided batch file, if you're on Windows
+
+![ImageChefGUI](https://github.com/avyaktam/ImageChef/assets/82269309/7c5fd5b4-a095-4b40-b42d-cb4c8b730d00)
+
